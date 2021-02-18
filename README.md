@@ -7,6 +7,7 @@
 #### * cd Desktop
 #### * git clone https://github.com/klevisi2004/upgradelinux.git
 #### * cd upgradelinux
+#### * clear
 #### * bash upgradelinux.sh
 ------------------------------------------------------
 # Follow me
