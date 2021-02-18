@@ -8,7 +8,7 @@
 #### git clone https://github.com/klevisi2004/upgradelinux.git
 #### cd upgradelinux
 #### bash upgradelinux.sh
-
+------------------------------------------------------
 ### Follow me
 ##### github.com/klevisi2004
 ##### instagram.com/klevis_r1
