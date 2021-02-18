@@ -10,7 +10,7 @@
 #### bash upgradelinux.sh
 ------------------------------------------------------
 # Follow me
-#### github.com/klevisi2004
-#### instagram.com/klevis_r1
-#### linkedin.com/in/klevis-ruci
+#### https://github.com/klevisi2004
+#### www.instagram.com/klevis_r1
+#### www.linkedin.com/in/klevis-ruci
 ###### klevis ruci
