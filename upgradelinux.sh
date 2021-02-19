@@ -44,12 +44,6 @@ sleep 1
 sudo apt update
 printf "\n"
 printf "\e[1;31m *****************************\e[0m\n"
-printf "\e[1;31m *\e[0m\e[1;32mDownloading Audio Equalizer\e[0m\e[1;31m* \e[0m\n"
-printf "\e[1;31m ***************************** \e[0m\n"
-sleep 1
-sudo apt install pulseeffects pulseaudio --
-printf "\n"
-printf "\e[1;31m *****************************\e[0m\n"
 printf "\e[1;31m *\e[0m\e[1;32m       Congratulate!\e[0m\e[1;31m       * \e[0m\n"
 printf "\e[1;31m *\e[0m\e[1;32m    System it's upgraded   \e[0m\e[1;31m* \e[0m\n"
 printf "\e[1;31m *****************************\e[0m\n"
