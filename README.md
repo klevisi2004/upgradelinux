@@ -12,6 +12,6 @@
 ------------------------------------------------------
 # Follow me
 #### www.github.com/klevisi2004
-#### www.instagram.com/visi_16
+#### www.instagram.com/vissi_16
 #### www.linkedin.com/in/klevis-ruci
 ###### klevis ruci
